@@ -24,3 +24,6 @@ https://www.facebook.com/Emergency-Helper-Bot-159172571153105/
 If you have some problems with accessing the bot app, please contact me (email mentioned above).
 
 https://wit.ai/LeontiBrechko/emergencyServiceBot/
+
+## "Dream team" photo
+![alt tag](https://raw.githubusercontent.com/LeontiBrechko/emergencyWitBot/master/docs/team_photo.JPG)
